@@ -18,6 +18,8 @@ I am a Junior QA Engineer and I like to work on projects in my free time.
 - SQL
 ## Testing:
 - Selenium
+### API Testing
+- Postman
 ## Cloud Computing and Services:
 - Microsoft Azure
 
