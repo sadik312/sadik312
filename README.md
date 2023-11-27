@@ -1,8 +1,25 @@
-#Hi
+# Hi
 I am a Junior QA Engineer and I like to work on projects in my free time.
 
 # Technical Skillset
-[(https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+## Programming Languages:
+- Python
+- C#
+- Java
+## Web Development:
+- React.js
+- Vite.js
+- HTML
+- CSS
+- JavaScript
+- Node.js
+## Database:
+- MongoDB
+- SQL
+## Testing:
+- Selenium
+## Cloud Computing and Services:
+- Microsoft Azure
 
 <!--
 **sadik312/sadik312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
