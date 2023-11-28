@@ -4,7 +4,7 @@ I am a Junior QA Engineer and I like to work on projects in my free time.
 # Technical Skillset
 ## Programming Languages:
 - Python
-- C#
+- ![image]{https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white}
 - Java
 ## Web Development:
 - React.js
@@ -22,6 +22,8 @@ I am a Junior QA Engineer and I like to work on projects in my free time.
 - Postman
 ## Cloud Computing and Services:
 - Microsoft Azure
+## Connect with me
+- Linkedin
 
 <!--
 **sadik312/sadik312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
