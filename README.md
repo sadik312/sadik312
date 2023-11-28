@@ -4,7 +4,7 @@ I am a Junior QA Engineer and I like to work on projects in my free time.
 # Technical Skillset
 ## Programming Languages:
 - Python
-- ![image]{https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white}
+- ![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white})
 - Java
 ## Web Development:
 - React.js
