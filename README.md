@@ -1,5 +1,5 @@
 # Hi
-I am a Junior QA Engineer and I like to work on projects in my free time.
+I am a Junior QA Engineer and like to work on projects in my free time.
 
 # Technical Skillset
 ## Programming Languages:
@@ -21,6 +21,7 @@ I am a Junior QA Engineer and I like to work on projects in my free time.
 
 ## Testing:
 - Selenium
+- Mocha & Chai
 
 ## Cloud Computing and Services:
 - Microsoft Azure
