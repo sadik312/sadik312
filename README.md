@@ -1,5 +1,4 @@
-# Hi
-I am a Junior QA Engineer and like to work on projects in my free time.
+# Hello World
 
 # Technical Skillset
 ## Programming Languages:
