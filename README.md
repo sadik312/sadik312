@@ -1,4 +1,4 @@
-# Hello World
+# Hello, World
 
 # Technical Skillset
 ## Programming Languages:
