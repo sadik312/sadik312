@@ -24,8 +24,6 @@
 - Jest (for unit testing)
 - PyTest
 
-## Cloud Computing and Services:
-- Microsoft Azure
 
 ```
 Anything that can go wrong will go wrong.
