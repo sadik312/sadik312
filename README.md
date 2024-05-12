@@ -27,5 +27,7 @@
 ## Cloud Computing and Services:
 - Microsoft Azure
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/sadik-islam-a76741230/)
+```
+Anything that can go wrong will go wrong.
+- Murphy's Law
+```
