@@ -21,6 +21,8 @@
 ## Testing:
 - Selenium
 - Mocha & Chai
+- Jest (for unit testing)
+- PyTest
 
 ## Cloud Computing and Services:
 - Microsoft Azure
