@@ -24,7 +24,7 @@
 - Jest (for unit testing)
 - PyTest
 
-## Other tech/tools I use;
+## Other tech/tools I use:
 - Linux (I use Arch btw)
 - Neovim
 - i3wm
